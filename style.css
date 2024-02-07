@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background: url(./img/pexels-felix-mittermeier-956999.jpg) no-repeat center fixed;
+    background-size: cover;
+
+}
+body{
+    width: 1366px;
+    margin: 0 auto;
+}
+.search{
+    width: 100%;
+    color:white;
+    
+}
+.search h2{
+    font-size: xx-large;
+    font-weight: 900;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.search1 input{
+    width: 27%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    font-size: 20px;
+    background-color: white;
+    background-image: url(./img/search_FILL0_wght400_GRAD0_opsz24.svg);
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    border-radius: 10px;
+    
+}
+input:focus {
+    width: 100%;
+}
+.body1{
+    padding-top: 10px;
+}
+.example1 {
+    background: url(./img/pexels-merili-magi-20076337-removebg-preview.png) right bottom no-repeat, url(./img/rsz_1pexels-imustbedead-10777234.jpg) left top repeat;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+  }
+.example1 h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10%;
+}
+p{
+    padding-right: 250px;
+    text-align: justify;
+    
+}
